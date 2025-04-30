@@ -1,0 +1,11 @@
+#Ignore all .txt files
+*.txt
+#Ignore sitemap.xml
+sitemap.xml
+#Ignore google id token
+googlee03ed795a6817f17.html
+#Ignore old_version subdirs
+style/old_versions/*
+script/old_versions/*
+#Ignore av files
+.avfilelist

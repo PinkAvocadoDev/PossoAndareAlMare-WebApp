@@ -1,0 +1,36 @@
+{
+    "theme_color": "#e2dcc0",
+    "background_color": "#ffffff",
+    "display": "standalone",
+    "scope": "https://possoandarealmare.altervista.org/",
+    "start_url": "https://possoandarealmare.altervista.org/",
+    "name": "Posso andare al mare?",
+    "short_name": "Paalm",
+    "description": "Si pu\u00f2 andare al mare oggi? Scoprilo con noi!",
+    "icons": [
+        {
+            "src": "img/manicons/icon-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+			"purpose": "any maskable"
+        },
+        {
+            "src": "img/manicons/icon-256x256.png",
+            "sizes": "256x256",
+            "type": "image/png",
+			"purpose": "any maskable"
+        },
+        {
+            "src": "img/manicons/icon-384x384.png",
+            "sizes": "384x384",
+            "type": "image/png",
+			"purpose": "any maskable"
+        },
+        {
+            "src": "img/manicons/icon-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+			"purpose": "any maskable"
+        }
+    ]
+}
